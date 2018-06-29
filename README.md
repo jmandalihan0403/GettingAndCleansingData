@@ -24,9 +24,11 @@ Create an R script called run_analysis.R that does the following:
 Project Outcome
 In sync with the requirements this project comprises:
 
-1. a tidy data set based on the original data set: tidy_data.txt and tidy_data.csv (nicely formatted on GitHub)
-an R script called run_analysis.R for performing the analysis
-2. a code book called CodeBook.md that describes variables, data and any transformations or work performed to clean up the data
+1. The submitted data set is tidy.
+2. The Github repo contains the required scripts.
+3. GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+4. The README that explains the analysis files is clear and understandable.
+5. The work submitted for this project is the work of the student who submitted it.
 
 Other Resources
 Human Activity Recognition Using Smartphones Data Set
